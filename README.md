@@ -1,9 +1,10 @@
-<h1 align="center">Hi, I'm Murugeshwari K 👋</h1>
-<h3 align="center">Software Developer & AI Engineer</h3>
+<h1 align="center">Murugeshwari K</h1>
+<h3 align="center">Software Developer | AI Engineer</h3>
 
 <p align="center">
-  Computer Science Engineering graduate (9.1 CGPA) building AI-powered applications —
-  from LLM-integrated document analysis to computer-vision classroom tools.
+  Computer Science Engineering graduate passionate about software development and Artificial
+  Intelligence. Skilled in designing and developing intelligent applications using Python,
+  FastAPI, Machine Learning, and Large Language Models (LLMs) to solve real-world problems.
 </p>
 
 <p align="center">
@@ -13,75 +14,73 @@
   <a href="mailto:Murugeshwarikalayani@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <!-- Replace the # below with your live portfolio URL -->
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-3E302B?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <a href="https://github.com/MurugeshwariK" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🚀 About Me
+---
 
-- 🎓 B.Tech Computer Science Engineering, B.S. Abdur Rahman Crescent Institute of Science and Technology
-- 🧠 Focused on **Machine Learning, LLM integration, and backend engineering** with FastAPI
-- 🛠️ Recently built AI systems for interview prep, lease document analysis, and emotion-aware learning
-- 🌱 Currently deepening my skills in Generative AI and scalable backend architecture
-- 💬 Ask me about Python, FastAPI, Computer Vision, or LLM-powered applications
-- 📫 Reach me at **Murugeshwarikalayani@gmail.com**
+## Education
+
+**B.Tech, Computer Science Engineering** — 2022–2026  
+B.S. Abdur Rahman Crescent Institute of Science and Technology, Vandalur — **CGPA: 9.1**
 
 ---
 
-### 🧰 Tech Stack
+## Experience
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,html,css,js,mysql,git,vscode,opencv" />
-</p>
+**Machine Learning Intern — Unified Mentor**
+- Gained foundational knowledge of machine learning with hands-on practice in data
+  preprocessing, model building, and model evaluation.
+- Built a web-based credit card fraud detection model using Streamlit, achieving 93% accuracy.
 
-**Languages:** Python, C  
-**Web & Backend:** HTML, CSS, JavaScript, FastAPI, Flask, REST APIs  
-**AI / ML:** Machine Learning, NLP Basics, LLM Integration, Data Analysis  
-**Libraries:** OpenCV, Whisper ASR, Pandas, NumPy, Scikit-learn  
-**Databases:** MySQL, DBMS Concepts  
-**Tools:** Git, VS Code, Windows
+**AI & Machine Learning Intern — Infosys Springboard**
+- Learned Large Language Model (LLM) concepts, from prompt design to integration patterns.
+- Developed a project using an LLM integrated with FastAPI for real-world backend serving.
 
 ---
 
-### 📌 Featured Projects
+## Skills
 
-| Project | Description | Tech |
-|---|---|---|
-| **[Skilligy](https://github.com/MurugeshwariK/Skilligy-AI-Interview-Platform)** | AI-driven mock interview platform with resume analysis and personalised question generation | Python, FastAPI, LLM, OpenCV, Whisper ASR |
-| **LeaseAI** | AI system analysing car lease documents with VIN verification, LLM summarisation & negotiation chatbot | Python, FastAPI, LLM |
-| **[Learnora](https://github.com/MurugeshwariK/Learnora-Emotion-Detection-AI-Chatbot)** | Emotion-aware learning assistant detecting classroom confusion via facial expression analysis | Python, OpenCV, Chatbot |
-| **[Fraud Transaction Detection](https://github.com/MurugeshwariK/1.-Fraud-Transaction-Detection-using-Machine-Learning)** | Credit card fraud detection model deployed with Streamlit — 93% accuracy | Python, Streamlit, ML |
-| **[Animal Image Classification](https://github.com/MurugeshwariK/Animal-Image-Classification-using-Machine-Learning)** | Image classification model for animal species detection | Python, Machine Learning |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MurugeshwariK&show_icons=true&theme=default&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MurugeshwariK&layout=compact&hide_border=true" height="165" />
-</p>
+| Category | Skills |
+|---|---|
+| Programming | Python, C |
+| Frontend | HTML, CSS, JavaScript |
+| Backend | Flask, FastAPI |
+| AI / ML | Machine Learning, NLP Basics, LLM Integration, Data Analysis |
+| Libraries | OpenCV, Whisper ASR, Pandas, NumPy, Scikit-learn |
+| Database | MySQL, DBMS Concepts |
+| Tools | Visual Studio Code, Git, Windows |
 
 ---
 
-<p align="center"><i>Open to Software Developer & AI Engineer roles — let's connect!</i></p>
+## Projects
+
+**Skilligy — AI Virtual Interview Platform**
+AI-driven mock interview platform with resume analysis and personalised question generation,
+supporting text, audio, and video-based candidate response analysis.
+`Python` `FastAPI` `HTML/CSS/JS` `LLM` `OpenCV` `Whisper ASR`
+
+**LeaseAI — AI-Based Document Analysis System**
+AI system that analyses car lease documents with VIN verification, LLM-based summarisation,
+risk assessment, and an interactive chatbot for negotiation support.
+`Python` `FastAPI` `LLM` `Document AI`
+
+**E-Commerce Website**
+Responsive e-commerce website built for showcasing and selling tote bags, focused on clean
+navigation and a smooth shopping experience.
+`HTML` `CSS` `JavaScript`
+
+---
+
+---
+
+## Contact
+
+📞 +91 86103 50680  
+📧 Murugeshwarikalayani@gmail.com  
 
 
-<!--
-**MurugeshwariK/Murugeshwarik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
